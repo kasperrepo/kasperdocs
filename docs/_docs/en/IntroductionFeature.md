@@ -37,7 +37,7 @@ sidebar:
 ### **3. Thông tin liên hệ**
 
 * **CÔNG TY CỔ PHẦN CÔNG NGHỆ KASPER**
-    >* Địa chỉ: Toong Vista Verde – 02 Phan Văn Đáng, Phường Thạnh Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh.
+    >* Địa chỉ: Tầng 5, Toà nhà 28 Trường Sơn, 28 đường Trường Sơn, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh.
     >* Wesbsite: [www.kasper.vn](http://www.kasper.vn){:target="_blank"}
     >* Mail: <a href="mailto:info@kasper.vn" >info@kasper.vn</a>
     >* Tel: (+84) 28 627 12370
